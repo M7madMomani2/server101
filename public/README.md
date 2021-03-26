@@ -37,16 +37,7 @@ Add this information to your README.
 
 
 ### Feature #1: Refactor the CSS 
-Number and name of feature: Refactor the CSS 
 
-Estimate of time needed to complete: half hour 
-
-Start time: 10:00
-
-Finish time: 10:30
-
-Actual time needed to complete:  half hour 
-```
 
 #### Why are we implementing this feature?
 
@@ -65,16 +56,7 @@ Then the portfolio contents should be displayed
 
 ### Feature #2: Modify the contents
 
-Number and name of feature: Modify the contents
 
-Estimate of time needed to complete: 1h
-
-Start time: 11:00
-
-Finish time: 12:00
-
-Actual time needed to complete: 1h
-```
 
 #### Why are we implementing this feature?
 
@@ -109,4 +91,31 @@ Then the content should be unique and reflect the skills and personality of the 
     - How long you spent working on this assignment
 
 
+
 [Deployed link](https://server-101.herokuapp.com/) 
+### Features :-
+
+```
+Number and name of feature: Refactor the CSS 
+
+Estimate of time needed to complete: half hour 
+
+Start time: 10:00
+
+Finish time: 10:30
+
+Actual time needed to complete:  half hour 
+
+```
+
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: 1h
+
+Start time: 11:00
+
+Finish time: 12:00
+
+Actual time needed to complete: 1h
+```
+
