@@ -142,6 +142,11 @@ input, select, textarea {
 
 	header {
 		margin: 0 0 2em 0;
+
+	}
+	#info{		
+		background-color: #000000b8;
+		padding: 50px;
 	}
 
 		header > p {
